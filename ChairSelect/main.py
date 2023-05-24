@@ -9,6 +9,7 @@ NameList = config.NameList
 
 
 List = [str(i) + '. ' + str(NameList[i-1]) for i in range (1, 27)]
+
 Person = []
 Person2 = []
 def initGame() :
